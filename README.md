@@ -1,6 +1,7 @@
 # micrordk-temp-restarts-dashboard
 
 This script prints each restart event on its own line
+
 Restart event lines look like 25 5 test-deadlock 2024-08-24 15:41, where the format is <deviceNum> <Name> <Location> <Date> <Time>
 
 Run as:
