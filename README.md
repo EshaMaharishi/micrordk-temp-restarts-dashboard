@@ -18,3 +18,5 @@ I recommend outputting to a file and using pbcopy, since the output is large (30
 go run pull.go -api_key_id=<API_KEY_ID> -api_key=<API_KEY> -process-timestamp=true | tee out
 cat out | pbcopy
 ```
+
+You can now paste the output as needed.
